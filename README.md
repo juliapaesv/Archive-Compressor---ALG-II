@@ -1,4 +1,4 @@
-# Archive-Compressor---ALG-II
+# Archive-Compressor - ALG II
 Algorithms assignment in archive compression using the LZW algorithm.
 
 *UFMG, 2024*.
@@ -7,7 +7,7 @@ Algorithms assignment in archive compression using the LZW algorithm.
 1. Ester Sara Assis 2021031785
 2. Júlia Paes de Viterbo 2021032137
 
-## Breaf explanation
+## Brief explanation
 The present assignment implements an archive compressor which uses the LZW algorithm for Algorithms II course in Univerdade Federal de Minas Gerais. 
 
 It takes an archive, compresses it and optionally tests the quality of this compression based on compression rate, number of elements stored and the memory space necessary for it, as well as regarding the total running time of the program. The tests made beforehand for evaluation matters are in the **report file (Relatorio.pdf)**, which also better explains the implementation of the method and gives examples of the code's functioning.
