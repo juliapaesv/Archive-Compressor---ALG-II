@@ -1,4 +1,4 @@
-# Archive-Compressor - ALG II
+# Archive Compressor - ALG II
 Algorithms assignment in archive compression using the LZW algorithm.
 
 *UFMG, 2024*.
