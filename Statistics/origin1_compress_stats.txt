@@ -1,0 +1,3 @@
+compression_ratio: 1.441860465116279
+dictionary_size: 298
+execution_time: 0.0011098384857177734

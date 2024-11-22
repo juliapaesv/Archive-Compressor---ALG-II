@@ -1,0 +1,2 @@
+decompression_time: 0.002169370651245117
+dictionary_size: 257
